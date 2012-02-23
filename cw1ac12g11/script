@@ -1,0 +1,3 @@
+#! /bin/bash
+
+php /usr/share/ac12g11/index.php $*

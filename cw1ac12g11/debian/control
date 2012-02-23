@@ -1,5 +1,5 @@
 Source: package
-Section: unknown
+Section: X11
 Priority: extra
 Maintainer: ac12g11 <ac12g11@soton.ac.uk>
 Build-Depends: debhelper (>= 7.0.50~)
@@ -11,5 +11,5 @@ Homepage: <insert the upstream URL, if relevant>
 Package: package
 Architecture: all
 Depends: ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: simple debian Package
+ This package is a task for INFO6005 and it gets rss feed and shows it to the users.
