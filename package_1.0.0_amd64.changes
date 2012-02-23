@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 23 Feb 2012 16:00:17 +0000
+Source: package
+Binary: package
+Architecture: source all
+Version: 1.0.0
+Distribution: unstable
+Urgency: low
+Maintainer: ac12g11 <ac12g11@soton.ac.uk>
+Changed-By: ac12g11 <ac12g11@soton.ac.uk>
+Description: 
+ package    - simple debian Package
+Changes: 
+ package (1.0.0) unstable; urgency=low
+ .
+   * Initial Release.
+Checksums-Sha1: 
+ 46390fab5051c52af902c0d1035a63ef7e1caca7 507 package_1.0.0.dsc
+ a3e89058074b81f70dc62a14cd8d96c76d0bf865 14521 package_1.0.0.tar.gz
+ 5845a18b764e7436ca4ce104e63d689054909912 5890 package_1.0.0_all.deb
+Checksums-Sha256: 
+ 7fc7bf3f21ca483f84f0cca0a2057d7b76e20600e7337bbfee9b106dfab15f69 507 package_1.0.0.dsc
+ fe1d0e8f6d121a3de9ae8251b00c8962c64af8fed1972b9981a7ae90391b01e8 14521 package_1.0.0.tar.gz
+ fa1432e27d80867524a0264db85e3612e37bbdfb439c136c88b456772c415030 5890 package_1.0.0_all.deb
+Files: 
+ c379e15c3b227275a3c1ffad36cf0796 507 X11 extra package_1.0.0.dsc
+ 276f310654ee12cf76f28437d021f231 14521 X11 extra package_1.0.0.tar.gz
+ 7b83a0ea502b4546060b70694a9ffc76 5890 X11 extra package_1.0.0_all.deb
