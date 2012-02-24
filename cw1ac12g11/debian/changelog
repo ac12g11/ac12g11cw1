@@ -1,5 +1,12 @@
-package (1.0.0) unstable; urgency=low
+ac12g11cw1 (v1.0) stable; urgency=low
 
-  * Initial Release.
+  [Antonis Chatzistathis <ac12g11@soton.ac.uk>]
+  * First commit
+  * Adding debian package files
+  * Adding package dsc
+  * Adding file cw1ac12g11
+  * Adding package package_1.0.0.tar.gz
+  * Adding package package_1.0.0_all.deb
+  * Adding package package_1.0.0_amd64.changes
 
- -- ac12g11 <ac12g11@soton.ac.uk>  Thu, 23 Feb 2012 16:00:17 +0000
+ -- Antonis Chatzistathis <ac12g11@soton.ac.uk>  Thu, 23 Feb 2012 16:36:23 +0000
