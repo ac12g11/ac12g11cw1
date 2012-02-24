@@ -1,4 +1,4 @@
-ac12g11cw1 (v1.0) stable; urgency=low
+package (v1.0) stable; urgency=low
 
   [Antonis Chatzistathis <ac12g11@soton.ac.uk>]
   * First commit
