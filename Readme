@@ -1,1 +1,19 @@
-hekkll
+Coursework 1 for INFO6005
+
+For this assignment we were supposed to package a piece of pre-existing software for distribution.
+
+
+Instalation guide:
+
+Step 1: Download the repository from github ( https://github.com/ac12g11/ac12g11cw1 )  and extract the files.
+
+Step 2: Using the terminal go to the folder where you have extracted the files and type the following command
+
+ sudo dpkg -i 'package_1.0.0_all.deb'
+
+Step 3: Then type the following command  sudo apt-get -f install to install all any necessary dependencies.
+
+Step 4: The package will now be installed on your pc and a folder named "ac12g11" will be created inside "usr/share/" directory.
+Inside there there will be four documents index.php, rss_php.php, feeds.conf and script.
+
+Step 5: To view the rss feed the user must type the command sh script. Script is a shell script placed inside "usr/bin/" directory which invoke the command "php index.php"
